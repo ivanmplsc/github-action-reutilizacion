@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: "Prueba de mensaje de reutilizacion"
         run: |
-          echo "Estoy reusando un workflow one"
+          echo "Estoy reusando un workflow one, desde branch"
